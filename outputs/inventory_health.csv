@@ -1,0 +1,9 @@
+product_id,product_name,category,stock_level,allocated_stock,in_transit,reorder_point,safety_stock,average_daily_demand,lead_time_days,unit_cost,available_stock,days_of_supply,target_stock,recommended_order_qty,inventory_value,risk_level,risk_reason
+P001,Servo Motor,Drive,420,160,80,300,120,28,7,88,340,12.142857142857142,316,0,36960,低,库存健康
+P002,PLC Module,Control,145,100,20,180,80,18,10,155,65,3.611111111111111,260,195,22475,高,可用库存低于安全库存
+P003,Industrial Sensor,Sensor,680,180,120,350,140,35,12,35,620,17.714285714285715,560,0,23800,中,库存缓冲不足
+P004,Frequency Converter,Drive,72,45,0,120,55,8,15,318,27,3.375,175,148,22896,高,可用库存低于安全库存
+P005,Relay Module,Control,510,130,60,260,100,30,10,49,440,14.666666666666666,400,0,24990,中,库存缓冲不足
+P006,HMI Panel,Control,95,70,10,140,60,10,14,120,35,3.5,200,165,11400,高,可用库存低于安全库存
+P007,Terminal Block,Electrical,920,220,100,450,180,45,10,23,800,17.77777777777778,630,0,21160,低,库存健康
+P008,Power Supply,Electrical,138,80,20,150,65,12,14,208,78,6.5,233,155,28704,高,库存覆盖天数不足以覆盖采购提前期

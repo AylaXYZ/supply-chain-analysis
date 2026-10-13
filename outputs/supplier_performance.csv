@@ -1,0 +1,5 @@
+supplier_id,order_count,purchase_value,on_time_delivery_rate,average_delay_days,ordered_quantity,rejected_quantity,defect_rate,performance_score,performance_level
+S001,8,79030,1.0,0.0,1200,3,0.0025,99.9,优秀
+S003,8,50930,1.0,0.0,1830,12,0.006557377049180328,99.8,优秀
+S004,8,166670,0.375,2.5,660,10,0.015151515151515152,55.8,待改善
+S002,8,113150,0.0,3.625,840,28,0.03333333333333333,29.0,待改善

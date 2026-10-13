@@ -1,0 +1,9 @@
+product_id,product_name,abc_class,risk_level,risk_reason,days_of_supply,recommended_order_qty,priority_score,recommended_action
+P002,PLC Module,A,高,可用库存低于安全库存,3.611111111111111,195,100,启动补货并确认供应商交期
+P006,HMI Panel,A,高,可用库存低于安全库存,3.5,165,100,启动补货并确认供应商交期
+P008,Power Supply,A,高,库存覆盖天数不足以覆盖采购提前期,6.5,155,100,启动补货并确认供应商交期
+P004,Frequency Converter,A,高,可用库存低于安全库存,3.375,148,100,启动补货并确认供应商交期
+P003,Industrial Sensor,B,中,库存缓冲不足,17.714285714285715,0,45,保持监控
+P005,Relay Module,B,中,库存缓冲不足,14.666666666666666,0,45,保持监控
+P001,Servo Motor,A,低,库存健康,12.142857142857142,0,30,保持监控
+P007,Terminal Block,C,低,库存健康,17.77777777777778,0,5,保持监控

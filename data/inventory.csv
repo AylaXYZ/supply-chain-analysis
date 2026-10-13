@@ -1,0 +1,9 @@
+product_id,product_name,category,stock_level,allocated_stock,in_transit,reorder_point,safety_stock,average_daily_demand,lead_time_days,unit_cost
+P001,Servo Motor,Drive,420,160,80,300,120,28,7,88
+P002,PLC Module,Control,145,100,20,180,80,18,10,155
+P003,Industrial Sensor,Sensor,680,180,120,350,140,35,12,35
+P004,Frequency Converter,Drive,72,45,0,120,55,8,15,318
+P005,Relay Module,Control,510,130,60,260,100,30,10,49
+P006,HMI Panel,Control,95,70,10,140,60,10,14,120
+P007,Terminal Block,Electrical,920,220,100,450,180,45,10,23
+P008,Power Supply,Electrical,138,80,20,150,65,12,14,208
